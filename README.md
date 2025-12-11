@@ -171,7 +171,7 @@ All scripts are run from the `client` directory using `pnpm <script-name>`.
 <img width="2282" height="1606" alt="image" src="https://github.com/user-attachments/assets/d5bb8687-b1a3-4d95-bf44-806b837bd4bb" />
 
 ## Track Status
-<img width="2282" height="1608" alt="image" src="https://github.com/user-attachments/assets/bf75aaf4-5995-479a-b3db-a22edf89bf2f" />
+<img width="1884" height="1648" alt="image" src="https://github.com/user-attachments/assets/1a80ad00-885e-4e26-92e1-bd0a65a49902" />
 
 ## Agile Board
 <img width="2346" height="1543" alt="image" src="https://github.com/user-attachments/assets/04b885b3-fa01-4d70-a756-c8cb4cc38413" />
