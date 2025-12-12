@@ -106,10 +106,10 @@ All commands are run from the `client/` directory using `pnpm`.
 <img width="2273" height="1587" alt="image" src="https://github.com/user-attachments/assets/7c5ce500-2ea9-4da5-a5f8-02f64c1a195f" />
 
 ## Track Status
-<img width="1958" height="1527" alt="image" src="https://github.com/user-attachments/assets/7767e30b-7f4e-4bf9-9658-7a7f7480abd0" />
+<img width="1956" height="1275" alt="image" src="https://github.com/user-attachments/assets/60552f80-dc51-425a-a657-ba1cdcdfc775" />
 
 ## Agile Board
-<img width="2598" height="1494" alt="image" src="https://github.com/user-attachments/assets/8d395445-01e9-4946-bad5-afb05dae0561" />
+<img width="2633" height="1345" alt="image" src="https://github.com/user-attachments/assets/5708a72f-7c29-46b4-ad91-46b91428b6ff" />
 
 ## Ligth mode
 <img width="2276" height="1709" alt="image" src="https://github.com/user-attachments/assets/bcf05515-a81a-46f4-9ffa-a53091aec02a" />
