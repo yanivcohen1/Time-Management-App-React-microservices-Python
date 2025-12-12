@@ -63,6 +63,7 @@ public static class SeedData
                 Description = "Review the weekly status reports from the team.", 
                 Status = Status.PENDING,
                 DueDate = DateTime.UtcNow.AddDays(1),
+                Duration = "30m",
                 UserLink = new TodoUserLink { Id = userObjectId }
             },
             new Todo 
@@ -71,6 +72,7 @@ public static class SeedData
                 Description = "Update the API documentation with the latest changes.", 
                 Status = Status.IN_PROGRESS,
                 DueDate = DateTime.UtcNow.AddDays(2),
+                Duration = "2h",
                 UserLink = new TodoUserLink { Id = userObjectId }
             },
              new Todo 
@@ -79,6 +81,7 @@ public static class SeedData
                 Description = "Weekly sync with the development team.", 
                 Status = Status.COMPLETED,
                 DueDate = DateTime.UtcNow.AddDays(-1),
+                Duration = "1h",
                 UserLink = new TodoUserLink { Id = userObjectId }
             },
             new Todo 
@@ -87,6 +90,7 @@ public static class SeedData
                 Description = "Prepare the backlog for the upcoming sprint.", 
                 Status = Status.BACKLOG,
                 DueDate = DateTime.UtcNow.AddDays(5),
+                Duration = "4h",
                 UserLink = new TodoUserLink { Id = userObjectId }
             }
         };
