@@ -1,0 +1,18 @@
+Jwt:
+  Key: "prod-super-secret-key-change-in-production"
+  Issuer: "AuthApi"
+  Audience: "AuthApiUsers"
+  ExpirationMinutes: 60
+
+Database:
+  Provider: "MongoDB"  # Options: "MySQL" or "MongoDB"
+
+ConnectionStrings:
+  DefaultConnection: "server=prod-server;port=3306;user=prod-user;password=prod-password;database=prod_netcore_auth;"
+  MongoConnection: "mongodb://prod-server:27017/prod_netcore_auth"
+
+Server:
+  Urls: "https://localhost:5001"
+
+Cors:
+  AllowedOrigins: "https://prod-frontend.com"

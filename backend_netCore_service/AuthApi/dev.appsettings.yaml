@@ -1,0 +1,18 @@
+Jwt:
+  Key: "your-super-secret-key-here-change-in-production"
+  Issuer: "AuthApi"
+  Audience: "AuthApiUsers"
+  ExpirationMinutes: 60
+
+Database:
+  Provider: "MongoDB"  # Options: "MySQL" or "MongoDB"
+
+ConnectionStrings:
+  DefaultConnection: "server=localhost;port=3306;user=root;password=yanivc77;database=netcore_auth_xunit;"
+  MongoConnection: "mongodb://localhost:27017/netcore_auth_xunit"
+
+Server:
+  Urls: "http://localhost:5000;https://localhost:5001"
+
+Cors:
+  AllowedOrigins: "http://localhost:3000,http://localhost:3001,http://localhost:4173"
